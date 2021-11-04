@@ -1,2 +1,8 @@
-# HTML-Projects-
-Created projects to practice HTML code
+# HTML Projects 
+#
+Here are the projects I created using HTML
+#
+Purpose: practicing & understanding HTML 
+# 
+TABLE OF CONTENTS
+
